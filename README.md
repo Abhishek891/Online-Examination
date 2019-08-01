@@ -1,50 +1,67 @@
-# Online-Examination
-<head>
+<html>
+
+ <head>
+
+  <!-- <link rel="styleshett" type="text/css" href="default_stylesheet.css">-->
+
+  <script>
+
+    body {background-color: powderblue;
+
+         font-family:"Times New Roman", Times, serif;}
+
+    h1   {color: blue;}
+
+    h2   {color:red;}
+
+    h3   {color:green;}
+
+    h4   {color:black:}
+
+    p    {color: red;}
+
+    ol   {color:blue;}
+
+    img{
+
+   
+
+  </script>
+
+  </head>
+
+  <body>
+
+   <img src="https://i.pinimg.com/236x/dd/87/db/dd87db2c6b285df3041ceb78f98918ec.jpg" alt="Smiley face" height="100" width="100">
 
 
- 
-    <style>
 
+  <h1>Dhoni Bhai wicketkeeping,batting,Captaincy is lit</h1>
 
- 
-      body{
+  <p>About Dhoni bhai</p>
 
+  <p>Best Finisher</p>
 
- 
-        background-color:url("https://static.vecteezy.com/system/resources/previews/000/076/407/original/cricket-vector.jpg");
+  <p>Best Stumpings behind Wickets</p>
 
+   <h2>thi is h2 tag</h2>
 
- 
-        background:url("https://static.vecteezy.com/system/resources/previews/000/076/407/original/cricket-vector.jpg");
+   <h3>this is h3 tag</h3>
 
+   <h4>this is h4 tag</h4>
 
- 
-      }
+   <ol>
 
+      <li>first item</li>
 
- 
-      p{
+      <li>second item</li>
 
+      <li>third item</li>
 
- 
-        color:Black;
+    </ol>
 
+  </body>
 
- 
-        color:Red;
+  </html>
 
-
- 
-        font-size:30px;
-
-
- 
-      }
-
-
- 
-      h1{
-
-
- 
-        margin-left:80px;
+  
